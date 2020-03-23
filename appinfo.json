@@ -1,0 +1,10 @@
+{
+    "vendor": "Your APP",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.your.app",
+    "title": "Your App",
+    "type": "web",
+    "version": "0.0.1"
+}
